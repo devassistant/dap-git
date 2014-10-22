@@ -1,0 +1,9 @@
+package_name: git
+version: 0.10.0dev
+license: GPLv2+
+authors: [Bohuslav Kabrda <bkabrda@redhat.com>, Tomas Radej <tradej@redhat.com>]
+homepage: https://github.com/devassistant/dap-git
+summary: Git snippet to be used from other assistants
+bugreports: https://github.com/devassistant/dap-git/issues
+description: |
+    Git snippet, allowing to initialize a git repo and commit everything.
